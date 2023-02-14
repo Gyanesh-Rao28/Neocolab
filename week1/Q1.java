@@ -1,3 +1,6 @@
+// Given the coordinates of the left bottom vertex of the square room and the length of the side, 
+//you need to write a program to determine the coordinates of the center of the room
+
 package week1;
 
 
