@@ -1,4 +1,4 @@
-
+// Calculating Gain Percentage
 import java.util.Scanner;
 class Q5 {
     public static void main(String[] args) {
