@@ -1,4 +1,4 @@
-
+// Write a program to convert Celsius to Fahrenheit formula, F = 1.8 C+32.
 import java.util.Scanner;
 
 // import javax.sound.sampled.SourceDataLine;
